@@ -22,7 +22,7 @@ git push -uf origin main
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/ulfaintania/tugas-dim/-/settings/integrations)
+
 
 ## Collaborate with your team
 
